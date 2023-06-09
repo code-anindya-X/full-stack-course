@@ -1,0 +1,16 @@
+nav ol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+nav ol li{
+    margin: 5px 5px;
+    cursor:pointer;
+    letter-spacing: 1px;
+}
+nav ol li:hover{
+    color: brown;
+    letter-spacing: 2px;
+}
